@@ -16,15 +16,15 @@ A lightweight, from-scratch implementation of a GPT-2-like causal transformer in
 All in ~300 lines of core model code – no external transformer libraries required.
 
 ## Project Structure
-.
-├── GPT/
-│   └── wikidatasets/
-│       ├── wikisent_p1.py    # 1 percent of wiki data
-│       └── wikisent_p001.py   # 0.1 percent of wiki data
-├── chat.py                   # Interactive chat loop
-├── data_builder.py           # BPETokenizer + TextDataset
-├── model.py                  # Full script (model + training + generation)
-└── checkpoints/              # Saved model weights (created automatically)
+
+- GPT/
+  - wikidatasets/
+    - wikisent_p1.py      # 1 percent of wiki data
+    - wikisent_p001.py    # 0.1 percent of wiki data
+- chat.py                   # Interactive chat loop
+- data_builder.py           # BPETokenizer + TextDataset
+- model.py                  # Full script (model + training + generation)
+- checkpoints/              # Saved model weights (created automatically)
 
 ## Quick Start
 
