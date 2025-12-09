@@ -19,12 +19,12 @@ All in ~300 lines of core model code – no external transformer libraries requi
 .
 ├── GPT/
 │   └── wikidatasets/
-│       ├── wikisent_p1.py          # 1 percent of wiki data
-│       └── wikisent_p001.py          # .001 percent of wiki data
-├── chat.py         # Interactive chat loop
-├── data_builder.py  # BPETokenizer + TextDataset
-├── model.py        # Full script (model + training + generation)
-└── checkpoints/    # Saved model weights (created automatically)
+│       ├── wikisent_p1.py    # 1 percent of wiki data
+│       └── wikisent_p001.py   # 0.1 percent of wiki data
+├── chat.py                   # Interactive chat loop
+├── data_builder.py           # BPETokenizer + TextDataset
+├── model.py                  # Full script (model + training + generation)
+└── checkpoints/              # Saved model weights (created automatically)
 
 ## Quick Start
 
