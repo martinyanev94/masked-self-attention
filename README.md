@@ -1,5 +1,8 @@
 # Masked Self Attention – Minimal GPT-2 Style Model in Pure PyTorch
 
+![17be2326-34b0-444a-bdfc-afe4bfa6242c](https://github.com/user-attachments/assets/590fddd3-093a-4bd1-ad54-fb5baa6132e5)
+
+
 A lightweight, from-scratch implementation of a GPT-2-like causal transformer in PyTorch. Perfect for learning, experimentation, or as a starting point for your own models.
 
 ## Features
