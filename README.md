@@ -1,5 +1,5 @@
 # Masked Self Attention – Minimal GPT-2 Style Model in Pure PyTorch
-Run on a fly notebook: https://colab.research.google.com/drive/1MK-96Lav3reR_NrxARkIlWES7V3PUa_9#scrollTo=tiJrPFzAYfBW
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MK-96Lav3reR_NrxARkIlWES7V3PUa_9#scrollTo=tiJrPFzAYfBW)
 
 
 ![17be2326-34b0-444a-bdfc-afe4bfa6242c](https://github.com/user-attachments/assets/590fddd3-093a-4bd1-ad54-fb5baa6132e5)
